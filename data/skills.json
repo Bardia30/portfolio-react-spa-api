@@ -1,0 +1,32 @@
+[
+    {
+        "id": "43972e95-605b-43fb-96fe-97670efbc502",
+        "skill": "HTML",
+        "years": 2
+    },
+    {
+        "id": "3b9524e0-49d9-4e10-9e1e-9b6c2631cc54",
+        "skill": "CSS",
+        "years": 2
+    },
+    {
+        "id": "263f771e-f6c3-49cb-a859-8681daf1adfd",
+        "skill": "JavaScript",
+        "years": 3
+    },
+    {
+        "id": "ae9022d2-7622-49b8-bf43-fda0468acfaf",
+        "skill": "Python",
+        "years": 5
+    },
+    {
+        "id": "bf6f6cf6-72a7-46fe-8101-1e90c2eb8337",
+        "skill": "React",
+        "years": 2
+    },
+    {
+        "id": "2383a96b-23c8-41d2-a24b-8452590a63c3",
+        "skill": "Node",
+        "years": 3
+    }
+]
