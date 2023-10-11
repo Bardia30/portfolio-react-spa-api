@@ -1,6 +1,6 @@
 [
     {
-        "id": "6ac649b8-44a9-4940-8674-ca1608667757",
+        "id": "48ab8028-63f5-4c49-bc7a-b9c8e3c0bda5",
         "title": "design portfolio",
         "image": "images/thumbnail-project-1-large.webp",
         "technologies": [
@@ -9,7 +9,7 @@
         ]
     },
     {
-        "id": "e783e391-100d-486e-8b94-f38b2659c62d",
+        "id": "b5a01005-7d92-4fae-a19e-ab536e43a736",
         "title": "e-learning landing page",
         "image": "images/thumbnail-project-2-large.webp",
         "technologies": [
@@ -18,7 +18,7 @@
         ]
     },
     {
-        "id": "fdf043d7-b235-4fcf-ad7d-d4420be3c0ae",
+        "id": "3af6a46e-766e-475d-bf82-da936c0a70d8",
         "title": "todo web app",
         "image": "images/thumbnail-project-3-large.webp",
         "technologies": [
@@ -28,7 +28,7 @@
         ]
     },
     {
-        "id": "dc35b7e4-e762-44cb-bd5f-fea7a2fd4b1a",
+        "id": "57e1e835-f203-4013-9736-480661f38e47",
         "title": "entertainment app",
         "image": "images/thumbnail-project-4-large.webp",
         "technologies": [
@@ -38,7 +38,7 @@
         ]
     },
     {
-        "id": "63d83103-2465-4c06-b733-102c320a9d09",
+        "id": "94c6eff9-f4ff-4d3c-8ca7-2b9997f5d44b",
         "title": "memory game",
         "image": "images/thumbnail-project-5-large.webp",
         "technologies": [
@@ -48,7 +48,7 @@
         ]
     },
     {
-        "id": "5d883a77-ebdc-4bbe-a1ad-5ee5fd670ef9",
+        "id": "b397bfe3-023e-407d-9eaa-ec60df56dea8",
         "title": "art gallery showcase",
         "image": "images/thumbnail-project-6-large.webp",
         "technologies": [
