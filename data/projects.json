@@ -1,60 +1,68 @@
 [
     {
         "id": "48ab8028-63f5-4c49-bc7a-b9c8e3c0bda5",
-        "title": "design portfolio",
-        "image": "images/thumbnail-project-1-large.webp",
+        "title": "WanderPal",
+        "image": "images/WanderPal1.png",
         "technologies": [
-            "html",
-            "css"
+            "React.js",
+            "Node.js",
+            "Express.js",
+            "MongoDB",
+            "Google React Maps",
+            "SASS"
         ]
     },
     {
         "id": "b5a01005-7d92-4fae-a19e-ab536e43a736",
-        "title": "e-learning landing page",
-        "image": "images/thumbnail-project-2-large.webp",
+        "title": "LUSH Industry Project",
+        "image": "images/LUSH.png",
         "technologies": [
-            "html",
-            "css"
+            "React.js",
+            "Python",
+            "Node.js",
+            "Express.js"
         ]
     },
     {
         "id": "3af6a46e-766e-475d-bf82-da936c0a70d8",
-        "title": "todo web app",
-        "image": "images/thumbnail-project-3-large.webp",
+        "title": "InStock",
+        "image": "images/InStock.png",
         "technologies": [
-            "html",
-            "css",
-            "javascript"
+            "React.js",
+            "Node.js",
+            "Express.js",
+            "MySQL",
+            "SASS"
         ]
     },
     {
         "id": "57e1e835-f203-4013-9736-480661f38e47",
-        "title": "entertainment app",
-        "image": "images/thumbnail-project-4-large.webp",
+        "title": "BrainFlix",
+        "image": "images/BrainFlix.png",
         "technologies": [
-            "html",
-            "css",
-            "javascript"
+            "React.js",
+            "Node.js",
+            "Express.js",
+            "SASS"
         ]
     },
     {
         "id": "94c6eff9-f4ff-4d3c-8ca7-2b9997f5d44b",
-        "title": "memory game",
-        "image": "images/thumbnail-project-5-large.webp",
+        "title": "BandSite",
+        "image": "images/BandSite.png",
         "technologies": [
             "html",
-            "css",
-            "javascript"
+            "SASS",
+            "JavaScript"
         ]
     },
     {
         "id": "b397bfe3-023e-407d-9eaa-ec60df56dea8",
-        "title": "art gallery showcase",
-        "image": "images/thumbnail-project-6-large.webp",
+        "title": "TravelSite",
+        "image": "images/TravelSite.png",
         "technologies": [
             "html",
-            "css",
-            "javascript"
+            "SASS"
         ]
     }
 ]
